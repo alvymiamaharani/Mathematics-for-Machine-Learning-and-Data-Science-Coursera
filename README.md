@@ -24,4 +24,4 @@
 
     - [Practice quiz: Eigenvalues and Eigenvectors](https://github.com/alvymiamaharani/Mathematics-for-Machine-Learning-and-Data-Science-Coursera/blob/main/C1-machine-learning-linear-algebra/Week-4/Eigenvalues%20and%20Eigenvectors.pdf)
     
-    - [Programming Assignment: Programming Assignment: Eigenvalues and Eigenvectors](https://github.com/alvymiamaharani/Mathematics-for-Machine-Learning-and-Data-Science-Coursera/blob/main/C1-machine-learning-linear-algebra/Week-4/Programming%20Assignment%3A%20Eigenvalues%20and%20Eigenvectors/C1_W4_Assignment.ipynb)
+    - [Programming Assignment: Eigenvalues and Eigenvectors](https://github.com/alvymiamaharani/Mathematics-for-Machine-Learning-and-Data-Science-Coursera/blob/main/C1-machine-learning-linear-algebra/Week-4/Programming%20Assignment%3A%20Eigenvalues%20and%20Eigenvectors/C1_W4_Assignment.ipynb)
