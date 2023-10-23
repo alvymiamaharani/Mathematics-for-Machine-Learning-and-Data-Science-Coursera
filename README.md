@@ -3,7 +3,6 @@
 ![](/resources/cover.png)
 
 <br />
-<br />
 
 ## Course 1
 
@@ -57,23 +56,23 @@
 
 ## Course 3
 
-- [Week 1](https://github.com/alvymiamaharani/Mathematics-for-Machine-Learning-and-Data-Science-Coursera/tree/main/C3-Probability%26Statistics-for-ML%26DS/week-1)
+- [Week 1](https://github.com/alvymiamaharani/Mathematics-for-Machine-Learning-and-Data-Science-Coursera/tree/main/C3-ProbabilityandStatistics-for-MLandDS/Week-1)
 
     - [Practice quiz: Week 1 - Summative quiz](https://github.com/alvymiamaharani/Mathematics-for-Machine-Learning-and-Data-Science-Coursera/blob/main/C3-ProbabilityandStatistics-for-MLandDS/Week-1/Summativequiz.pdf)
 
     - [Programming Assignment: Probability Distributions / Naive Bayes](https://github.com/alvymiamaharani/Mathematics-for-Machine-Learning-and-Data-Science-Coursera/blob/main/C3-ProbabilityandStatistics-for-MLandDS/Week-1/Programming%20Assignment%3A%20Probability%20Distributions%20Naive%20Bayes/C3_W1_Assignment.ipynb)
 
-- [Week 2](https://github.com/alvymiamaharani/Mathematics-for-Machine-Learning-and-Data-Science-Coursera/tree/main/C3-Probability%26Statistics-for-ML%26DS/week-2)
+- [Week 2](https://github.com/alvymiamaharani/Mathematics-for-Machine-Learning-and-Data-Science-Coursera/tree/main/C3-ProbabilityandStatistics-for-MLandDS/week-2)
 
     - [Practice quiz: Week 2 - Summative quiz](https://github.com/alvymiamaharani/Mathematics-for-Machine-Learning-and-Data-Science-Coursera/blob/main/C3-ProbabilityandStatistics-for-MLandDS/week-2/Summativequiz.pdf)
 
     - [Programming Assignment: Loaded Dice](https://github.com/alvymiamaharani/Mathematics-for-Machine-Learning-and-Data-Science-Coursera/blob/main/C3-ProbabilityandStatistics-for-MLandDS/week-2/Programming%20Assignment%3A%20Loaded%20Dice/C3_W2_Assignment.ipynb)
 
-- [Week 3](https://github.com/alvymiamaharani/Mathematics-for-Machine-Learning-and-Data-Science-Coursera/tree/main/C3-Probability%26Statistics-for-ML%26DS/week-3)
+- [Week 3](https://github.com/alvymiamaharani/Mathematics-for-Machine-Learning-and-Data-Science-Coursera/tree/main/C3-ProbabilityandStatistics-for-MLandDS/week-3)
 
     - [Practice quiz: Week 3 - Summative quiz](https://github.com/alvymiamaharani/Mathematics-for-Machine-Learning-and-Data-Science-Coursera/blob/main/C3-ProbabilityandStatistics-for-MLandDS/week-3/Summativequiz.pdf)
 
-- [Week 4](https://github.com/alvymiamaharani/Mathematics-for-Machine-Learning-and-Data-Science-Coursera/tree/main/C3-Probability%26Statistics-for-ML%26DS/week-4)
+- [Week 4](https://github.com/alvymiamaharani/Mathematics-for-Machine-Learning-and-Data-Science-Coursera/tree/main/C3-ProbabilityandStatistics-for-MLandDS/week-4)
 
     - [Practice quiz: Week 4 - Summative quiz](https://github.com/alvymiamaharani/Mathematics-for-Machine-Learning-and-Data-Science-Coursera/blob/main/C3-ProbabilityandStatistics-for-MLandDS/week-4/Summativequiz.pdf)
 
